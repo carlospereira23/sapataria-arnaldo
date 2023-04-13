@@ -1,21 +1,6 @@
-<head>
-<style>
-body{font-weight:bold;
-  font-color:blue;
-  background-color:yellow
-}
-body {
-  background-color:burlywood;
-}
-.p1 {
-  font-family: Arial}   
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
+
+  body {
+    background-color: rgb(212, 185, 145);
   }
-  
-  p {
-    line-height: 1.4;
-  }
+
+ 
